@@ -1,0 +1,59 @@
+11:35:31.884 [main] INFO  testCases.Account_Registration - ****starting registration****
+11:35:31.935 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+11:35:32.080 [main] INFO  testCases.Account_Registration - ****clicking on register****
+11:35:32.760 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+11:35:38.175 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:22:41.473 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:22:41.559 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:22:41.790 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:22:42.739 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:22:48.581 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:23:27.796 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:23:27.830 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:23:27.956 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:23:28.643 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:23:34.835 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:38:39.336 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:38:39.424 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:38:39.551 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:38:40.404 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:38:46.396 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:56:20.608 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:56:20.660 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:56:20.894 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:56:21.966 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:57:59.475 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:57:59.542 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:57:59.765 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:58:00.683 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:58:06.182 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:59:08.426 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:59:08.467 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:59:08.637 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:59:09.443 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:34:04.268 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:34:04.339 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:34:04.499 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:34:06.138 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:37:03.211 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:37:03.281 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:37:03.423 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:37:04.517 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:37:11.198 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+10:52:35.279 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:52:35.357 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:52:35.527 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:52:36.404 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+10:59:56.453 [main] INFO  testCases.Account_Registration - ****starting registration****
+10:59:56.495 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+10:59:56.739 [main] INFO  testCases.Account_Registration - ****clicking on register****
+10:59:57.720 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+11:00:04.570 [main] INFO  testCases.Account_Registration - ***accountRegistartion is completed*****
+11:21:03.464 [main] INFO  testCases.Account_Registration - ****starting registration****
+11:21:03.539 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+11:21:03.703 [main] INFO  testCases.Account_Registration - ****clicking on register****
+11:21:04.585 [main] INFO  testCases.Account_Registration - ****entering all the fields****
+11:21:49.465 [main] INFO  testCases.Account_Registration - ****starting registration****
+11:21:49.526 [main] INFO  testCases.Account_Registration - ****clicking on my account menu****
+11:21:49.800 [main] INFO  testCases.Account_Registration - ****clicking on register****
+11:21:50.728 [main] INFO  testCases.Account_Registration - ****entering all the fields****
